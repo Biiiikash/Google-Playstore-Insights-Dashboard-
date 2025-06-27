@@ -129,6 +129,17 @@ Performed extensive preprocessing to prepare the dataset for accurate analysis:
 ---
 
 ## 📂 Folder Structure
+main/
+├── README.md
+├── dashboardimage.jpg
+├── google playstore analysis.pbix
+├── google playstore analysis.pdf
+├── resources/
+│ ├── [CITYPNG.COM]White Google Play PlayStore Logo - 1500x1500.png
+│ ├── google play store data.xlsx
+│ ├── icon.png
+│ ├── icons8-busssssttons-60.png
+│ └── icons8-buttons-60.png
 
 
 ---
