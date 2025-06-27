@@ -3,7 +3,7 @@
 ## 🔗 Live Dashboard & PDF Report
 
 - 🔗 [**View Dashboard on Power BI**](https://app.powerbi.com/view?r=eyJrIjoiYTk2OWY5MjEtZjgzOC00M2UxLTgyODUtZGVlN2YwZDc4ZDZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-- 📄 [**Download PDF Report**](google playstore analysis.pdf)
+- 📄 [**Download PDF Report**](google%20playstore%20analysis.pdf)
 
 ---
 
