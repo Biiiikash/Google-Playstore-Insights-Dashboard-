@@ -100,7 +100,7 @@ Available on [Kaggle](https://www.kaggle.com/lava18/google-play-store-apps)
 ## 👤 Author
 
 **Bikash [Data Analyst in Progress]**  
-🔗 [LinkedIn Profile](#) *(https://www.linkedin.com/in/bikashbaro/)*  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/bikashbaro/) 
 💼 Exploring real-world data problems using Power BI, Excel, and DAX.
 
 ---
