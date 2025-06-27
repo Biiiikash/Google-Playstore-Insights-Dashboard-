@@ -1,6 +1,5 @@
 # 📱 Google Playstore Insights Dashboard
 
-![Dashboard Preview](dashboardimage.jpg)
 
 ---
 
@@ -141,6 +140,7 @@ main/
 
 ---
 ![Power BI](https://img.shields.io/badge/Built%20With-Power%20BI-yellow?logo=Power-BI&logoColor=white)
+![Dashboard Preview](dashboardimage.jpg)
 ---
 
 ## 📚 Data Source
