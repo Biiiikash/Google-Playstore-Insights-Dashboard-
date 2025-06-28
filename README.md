@@ -2,7 +2,7 @@
 ---
 ## 🔗 Live Dashboard & PDF Report
 
-- 🔗 [**View Dashboard on Power BI**](https://app.powerbi.com/view?r=eyJrIjoiYTk2OWY5MjEtZjgzOC00M2UxLTgyODUtZGVlN2YwZDc4ZDZjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- 🔗 [**View Dashboard on Power BI**](https://app.powerbi.com/view?r=eyJrIjoiOThkZDc4NTEtMzMyZi00NjkwLTkwNWMtOGM2YzNiYmExNzVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 - 📄 [**Download PDF Report**](google%20playstore%20analysis.pdf)
 
 ---
