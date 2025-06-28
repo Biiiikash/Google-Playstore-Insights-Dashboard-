@@ -29,7 +29,7 @@ This Power BI dashboard explores the **Google Playstore app ecosystem**, analyzi
 - Clear separation of free vs paid apps
 - Revenue breakdown by app category
 - Top 5 charts (Apps by reviews, revenue, installs)
-- Price bin distribution with outlier detection
+- Price Group distribution with outlier detection
 - Clean, consistent font and color formatting
 
 ---
